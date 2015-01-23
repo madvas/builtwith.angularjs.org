@@ -3647,7 +3647,29 @@
         "Static",
         "Responsive"
       ]
+    },
+    {
+      "name": "Disapainted",
+      "thumb": "disapainted/thumb.png",
+      "desc": "With Disapainted you can create and share funny 2D stick-man animations very easily.",
+      "url": "http://disapainted.com",
+      "info": "http://disapainted.com/about",
+      "src": "https://github.com/madvas/disapainted",
+      "submitter": "madvas",
+      "submissionDate": "2015-01-23",
+      "tags": [
+        "Production",
+        "Entertainment",
+        "Animations",
+        "Game",
+        "Open Source",
+        "Material Design",
+        "Interactive",
+        "No jQuery",
+        "NodeJS",
+        "ExpressJS",
+        "MongoDB"
+      ]
     }
-
   ]
 }
